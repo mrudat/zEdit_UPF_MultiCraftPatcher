@@ -1,0 +1,12 @@
+{
+  "id": "MultiCraftPatcher",
+  "name": "Multi Craft Patcher",
+  "author": "mrudat",
+  "version": "0.0.1",
+  "released": "2019-12-04",
+  "updated": "2019-12-04",
+  "description": "Adds Multi Craft support for arbitrary mods.",
+  "requires": ["unifiedPatchingFramework"],
+  "moduleLoader": "UPF",
+  "canHotLoad": true
+}
